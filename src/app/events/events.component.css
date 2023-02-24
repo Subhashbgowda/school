@@ -1,0 +1,49 @@
+.card-header {
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #dee2e6;
+  }
+  
+  .card-header h3 {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0;
+    padding: 10px;
+    height: auto;
+    font-style: italic;
+  }
+  
+  .list-group-item a {
+    color: black;
+    font-size: 16px;
+    text-decoration: none;
+  }
+  
+  .list-group-item a:hover {
+    text-decoration: underline;
+  }
+.list-group{
+    height: 300px;
+    overflow-y: auto;
+}  
+.card{
+    height: 350px;
+}  
+  .list-group-item {
+    height: 70px; /* increase the height of each list item */
+    line-height: 70px; /* center the text vertically in each list item */
+    font-size: 18px; /* increase the font size of the links */
+    font-style: italic;
+  }
+  .col-md-9 h2{
+    position: relative;
+    margin-left: -10%;
+    font-style: italic;
+
+  }
+  .col-md-9 p{
+    position: relative;
+    margin-left: -10%;
+    font-style: italic;
+
+  }
+  
